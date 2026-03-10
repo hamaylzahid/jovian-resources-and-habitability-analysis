@@ -350,7 +350,7 @@ jovian-resources-and-habitability-analysis
 <br>
 
 <pre>
-git clone https://github.com/yourusername/jovian-resources-and-habitability-analysis.git
+git clone https://github.com/hamaylzahid/jovian-resources-and-habitability-analysis.git
 cd jovian-resources-and-habitability-analysis
 pip install -r requirements.txt
 </pre>
